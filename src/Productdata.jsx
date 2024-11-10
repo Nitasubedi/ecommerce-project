@@ -1,0 +1,88 @@
+const productData = [
+  {
+    id: 1,
+    name: "Ultima Watch Circle 2.0 Smartwatch",
+    description: "In-build Charge, 3ATM Waterproof",
+    price: 3799,
+    image: "watch.png",
+  },
+  {
+    id: 2,
+    name: "Desktop Mobile Phone Holder Mount",
+    description: "Stand Flexible Foldable Portable",
+    price: 199,
+    image: "mobileholder.png",
+  },
+  {
+    id: 3,
+    name: "AR Jordan 1 Sneaker for Men",
+    description: "",
+    price: 2199,
+    image: "shoes.png",
+  },
+  {
+    id: 4,
+    name: "Manaslu MUS 21inch Soprano Ukulele with Package .",
+    description: "",
+    price: 2999,
+    image: "ukelele.png",
+  },
+  {
+    id: 5,
+    name: "Artificial Rubber Plant With Ceramic Pot For Decoration.",
+    description: "",
+    price: 3200,
+    image: "plant.png",
+  },
+  {
+    id: 6,
+    name: "3PC Floating Wall Mount Shelves Living Room & Bedroom Wall Decoration.",
+    description: "",
+    price: 1800,
+    image: "homedecor.png",
+  },
+  {
+    id: 7,
+    name: "Luxury Underarm Casual Versatile .",
+    description: "New Fashionable Shoulder Handbag.",
+    price: 599,
+    image: "bag.png",
+  },
+  {
+    id: 8,
+    name: "Men’s Summer Cool Titex Cotton T-Shirt For Men.",
+    description: "",
+    price: 350,
+    image: "tshirt.png",
+  },
+  {
+    id: 9,
+    name: "Women Straight High Waist Formal Pants For Summer",
+    description: "",
+    price: 1190,
+    image: "pants.png",
+  },
+  {
+    id: 10,
+    name: "Thin Windproof Dustproof Summer Jacket For Men ",
+    description: "Casual Lightweight Jacket For Men ",
+    price: 599,
+    image: "jacket.png",
+  },
+  {
+    id: 11,
+    name: "Dual Rechargeable Bluetooth and 2.4G Wireless Mouse 2 in 1 Mouse",
+    description: "",
+    price: 1190,
+    image: "mouse.png",
+  },
+  {
+    id: 12,
+    name: "BBQ Portable Charcoal Grill Fold Barbecue Stove Table for Outdoor Camping ",
+    description: "",
+    price: 1290,
+    image: "bbq.png",
+  },
+];
+
+export default productData;
