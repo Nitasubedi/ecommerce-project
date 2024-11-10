@@ -18,6 +18,8 @@ const ProductList = () => {
     description: z.string().optional(),
   });
 
+  console.log("file updated");
+
   const handleAddProduct = (newProduct) => {
     setProducts((prevProducts) => [
       ...prevProducts,
